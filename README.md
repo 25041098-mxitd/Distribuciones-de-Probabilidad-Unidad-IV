@@ -1,2 +1,18 @@
-# Distribuciones-de-Probabilidad-Unidad-IV
-Problemas de la Unidad 4. Vargas Calderon Yahir Fernando. 
+# Instituto Tecnológico de Durango
+## Departamento de Sistemas y Computación
+
+**Carrera:** Ingeniería en Sistemas Computacionales  
+**Materia:** Probabilidad y Estadística  
+**Unidad:** IV - Distribuciones de Probabilidad  
+
+---
+
+### Datos del Alumno
+* **Nombre:** Vargas Calderón Yahir Fernando
+* **Número de Control:** 25041098
+* **Fecha:** 23/10/2026
+
+---
+
+### 📂 Índice de Trabajos
+* 📄 [Ejercicio Resuelto: Distribución Normal (Pesos ITD)](./ejercicio_peso_itd.md)
