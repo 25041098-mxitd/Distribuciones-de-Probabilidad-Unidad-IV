@@ -15,4 +15,4 @@
 ---
 
 ### 📂 Índice de Trabajos
-* 📄 [Ejercicio Resuelto: Distribución Normal (Pesos ITD)](Ejercicio_peso_itd.md)
+* 📄 [Ejercicio 1 Resuelto: Distribución Normal (Pesos ITD)](Ejercicio_peso_itd.md)
