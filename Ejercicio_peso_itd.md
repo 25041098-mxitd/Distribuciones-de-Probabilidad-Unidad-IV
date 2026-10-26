@@ -38,4 +38,4 @@ Redondeando al número entero más cercano, se estima que aproximadamente **192 
 
 ### 📊 Gráfica en Excel
 
-![Gráfica de la Campana de Gauss](./grafica_itd.png)
+![Gráfica de Distribución Normal](./grafica_normal.png)
